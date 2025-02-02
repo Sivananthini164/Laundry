@@ -16,3 +16,6 @@ HTML - For structuring the web pages.
 CSS - For styling and layout design.
 JavaScript - For interactivity and dynamic content.
 Media Queries - To ensure responsive design across devices.
+
+
+Demo: https://laundry-pearl.vercel.app/
